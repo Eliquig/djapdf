@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jewel Scarab Beetle (NHMW-Zoo2-Col 0000014)
+* source:	https://sketchfab.com/3d-models/jewel-scarab-beetle-nhmw-zoo2-col-0000014-8c1787f36241440caa8e535149c0b79a
+* author:	Natural History Museum Vienna (https://sketchfab.com/NHMWien)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jewel Scarab Beetle (NHMW-Zoo2-Col 0000014)" (https://sketchfab.com/3d-models/jewel-scarab-beetle-nhmw-zoo2-col-0000014-8c1787f36241440caa8e535149c0b79a) by Natural History Museum Vienna (https://sketchfab.com/NHMWien) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
