@@ -1,0 +1,11 @@
+Model Information:
+* title:	A7V "Wotan" tank
+* source:	https://sketchfab.com/3d-models/a7v-wotan-tank-949bdbfacca34d598fd7687cd3cf7583
+* author:	Call_ada (https://sketchfab.com/IvanKoliada)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A7V "Wotan" tank" (https://sketchfab.com/3d-models/a7v-wotan-tank-949bdbfacca34d598fd7687cd3cf7583) by Call_ada (https://sketchfab.com/IvanKoliada) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
