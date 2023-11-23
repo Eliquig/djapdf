@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eta-2 Actis-class Light Interceptor
+* source:	https://sketchfab.com/3d-models/eta-2-actis-class-light-interceptor-178f0e05ba64420485e7319c6a9ee6c6
+* author:	DrEgguin (https://sketchfab.com/DrEgguin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eta-2 Actis-class Light Interceptor" (https://sketchfab.com/3d-models/eta-2-actis-class-light-interceptor-178f0e05ba64420485e7319c6a9ee6c6) by DrEgguin (https://sketchfab.com/DrEgguin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
