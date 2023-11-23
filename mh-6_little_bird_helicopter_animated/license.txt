@@ -1,0 +1,11 @@
+Model Information:
+* title:	MH-6 Little Bird Helicopter Animated
+* source:	https://sketchfab.com/3d-models/mh-6-little-bird-helicopter-animated-ff51e655d05d4a05b2c0d9b274c00ed7
+* author:	OmegaRedZA (https://sketchfab.com/OmegaRedZA)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MH-6 Little Bird Helicopter Animated" (https://sketchfab.com/3d-models/mh-6-little-bird-helicopter-animated-ff51e655d05d4a05b2c0d9b274c00ed7) by OmegaRedZA (https://sketchfab.com/OmegaRedZA) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
